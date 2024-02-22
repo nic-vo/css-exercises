@@ -1,0 +1,23 @@
+body {
+	font-family: sans-serif;
+}
+
+.red-bg {
+	background-color: rgba(255, 121, 121, 0.75);
+	color: black;
+	font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.f-24px {
+	font-size: 24px;
+}
+
+#blue {
+	color: blue;
+	font-size: 36px;
+}
+
+#green {
+	background-color: rgba(100,240,100,0.7);
+	font-weight: bold;
+}
